@@ -6,3 +6,8 @@
 
 # lerna files
 /lerna-debug.log
+
+
+.history/
+.env.development
+.env
